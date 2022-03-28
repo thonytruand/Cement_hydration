@@ -1,0 +1,13 @@
+name = "Cement_Hydration"
+uuid = "fb4a4084-63ef-4b91-b7d3-a126c299b3b9"
+authors = ["Anthony Soive"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
